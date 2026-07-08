@@ -11,6 +11,7 @@ This project predicts the quality score of red wine (on a scale from 3 to 8) bas
 - **Features:** 11 physicochemical properties (fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol)
 - **Target:** `quality` — an integer score from 3 to 8, originally assigned by wine tasters
 - **Missing values:** None
+- Google Colab link: https://colab.research.google.com/drive/1Ug7GBxv8BEHJ4uZ6cXrhe3EnP1-IbErv?usp=sharing 
 
 ## Exploratory Data Analysis
 
